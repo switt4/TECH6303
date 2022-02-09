@@ -1,2 +1,4 @@
 datasets/*.csv
+datasets/*.pdf
+datasets/*.tsv
 
