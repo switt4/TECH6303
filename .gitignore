@@ -1,5 +1,6 @@
 datasets/*.csv
 datasets/*.pdf
 datasets/*.tsv
+datasets/*.png
 
 temp/*
