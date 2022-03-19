@@ -3,5 +3,6 @@ datasets/*.pdf
 datasets/*.tsv
 datasets/*.png
 datasets/*.txt
+datasets/*
 
 temp/*
